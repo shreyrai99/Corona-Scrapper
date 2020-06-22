@@ -27,21 +27,38 @@ By default, flask will run on port 5000 and will inform about Global Corona Case
 6. Run the send_mail.py model to send emails to the multiple users of our website </br>
 
 # Working Snaps
-Emails sent by our model to users: </br>
+Emails sent by our model to users: </br>  </br> 
 ![email_covid_stats](https://user-images.githubusercontent.com/51885421/85329869-f7c11b80-b4f0-11ea-9902-543a3f6a4d39.png)
 </br>
 Our Home Page
 
 ![home1](https://user-images.githubusercontent.com/51885421/85329985-2939e700-b4f1-11ea-9158-ad18d52f54b5.png)
+
+Few examples of country names we can find the details about </br>  
 ![home2](https://user-images.githubusercontent.com/51885421/85329988-2b9c4100-b4f1-11ea-9b61-5302a5791900.png)
 ![home3](https://user-images.githubusercontent.com/51885421/85329989-2c34d780-b4f1-11ea-8be1-9855942a6449.png)
+</br>
+Corona Details of World
+</br>
+![global_scrapper](https://user-images.githubusercontent.com/51885421/85330549-402d0900-b4f2-11ea-8358-58a3fe72400c.png)
+
+</br>
+Corona Details of India
+</br>
 ![india_scrapper](https://user-images.githubusercontent.com/51885421/85329990-2ccd6e00-b4f1-11ea-91a4-c849dd06bf98.png)
+</br>
+Examples Of Covid Scrapper of Other Nations
+</br>
 ![others_scrapper](https://user-images.githubusercontent.com/51885421/85329993-2d660480-b4f1-11ea-99fe-fc30ec5449ad.png)
 ![Screenshot (81)](https://user-images.githubusercontent.com/51885421/85329995-2dfe9b00-b4f1-11ea-8ea0-a63bd35d51c2.png)
 ![Screenshot (83)](https://user-images.githubusercontent.com/51885421/85329997-2e973180-b4f1-11ea-8db5-5217d132145b.png)
 ![Screenshot (85)](https://user-images.githubusercontent.com/51885421/85330007-3525a900-b4f1-11ea-9e43-6e217c229c47.png)
 ![Screenshot (84)](https://user-images.githubusercontent.com/51885421/85330013-37880300-b4f1-11ea-8668-cdb3f9025a78.png)
+</br>
+Data Vizualization using Google Colab </br>
+Bar chart of Cases in Indian states </br>
 ![image](https://user-images.githubusercontent.com/51885421/85330234-96e61300-b4f1-11ea-82e7-6d9e0791d7a7.png)
+Pie chart of Cases in Indian states </br>
 ![image](https://user-images.githubusercontent.com/51885421/85330247-9f3e4e00-b4f1-11ea-8ecf-a870cb6e1a89.png)
 
 
