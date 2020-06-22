@@ -50,6 +50,10 @@ Corona Details of World
 ![Screenshot (84)](https://user-images.githubusercontent.com/51885421/85331027-fc86cf00-b4f2-11ea-8afb-d5355ea91de3.png)
 ![Screenshot (85)](https://user-images.githubusercontent.com/51885421/85331031-fd1f6580-b4f2-11ea-927c-188c3fe0787f.png)
 
+# Data Vizualization Snaps:
+
+![image](https://user-images.githubusercontent.com/51885421/85331236-64d5b080-b4f3-11ea-98f8-f2cdb5ae35af.png)
+![image](https://user-images.githubusercontent.com/51885421/85331246-6bfcbe80-b4f3-11ea-89e1-08aad18ec262.png)
 
 
 
