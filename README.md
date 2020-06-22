@@ -45,22 +45,12 @@ Corona Details of World
 </br>
 Corona Details of India
 </br>
-![india_scrapper](https://user-images.githubusercontent.com/51885421/85329990-2ccd6e00-b4f1-11ea-91a4-c849dd06bf98.png)
-</br>
-Examples Of Covid Scrapper of Other Nations
-</br>
-![others_scrapper](https://user-images.githubusercontent.com/51885421/85329993-2d660480-b4f1-11ea-99fe-fc30ec5449ad.png)
-</br>
-![Screenshot (81)](https://user-images.githubusercontent.com/51885421/85329995-2dfe9b00-b4f1-11ea-8ea0-a63bd35d51c2.png)
-</br>
-![Screenshot (83)](https://user-images.githubusercontent.com/51885421/85329997-2e973180-b4f1-11ea-8db5-5217d132145b.png)
-</br>
-![Screenshot (85)](https://user-images.githubusercontent.com/51885421/85330007-3525a900-b4f1-11ea-9e43-6e217c229c47.png)
-</br>
-![Screenshot (84)](https://user-images.githubusercontent.com/51885421/85330013-37880300-b4f1-11ea-8668-cdb3f9025a78.png)
-</br>
-Data Vizualization using Google Colab </br>
-Bar chart of Cases in Indian states </br>
+![india_scrapper](https://user-images.githubusercontent.com/51885421/85331011-f7c21b00-b4f2-11ea-8e2e-30bd7598a329.png)
+![others_scrapper](https://user-images.githubusercontent.com/51885421/85331016-fa247500-b4f2-11ea-88d5-8d16e9c6c557.png)
+![Screenshot (81)](https://user-images.githubusercontent.com/51885421/85331021-fabd0b80-b4f2-11ea-9f76-8640aa2865c6.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/51885421/85331022-fabd0b80-b4f2-11ea-80bf-aa8c5d6b38ef.png)
+![Screenshot (84)](https://user-images.githubusercontent.com/51885421/85331027-fc86cf00-b4f2-11ea-8afb-d5355ea91de3.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/51885421/85331031-fd1f6580-b4f2-11ea-927c-188c3fe0787f.png)
 ![image](https://user-images.githubusercontent.com/51885421/85330234-96e61300-b4f1-11ea-82e7-6d9e0791d7a7.png)
 Pie chart of Cases in Indian states </br>
 ![image](https://user-images.githubusercontent.com/51885421/85330247-9f3e4e00-b4f1-11ea-8ecf-a870cb6e1a89.png)
