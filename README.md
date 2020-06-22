@@ -42,18 +42,14 @@ Corona Details of World
 </br>
 ![global_scrapper](https://user-images.githubusercontent.com/51885421/85330549-402d0900-b4f2-11ea-8358-58a3fe72400c.png)
 
-</br>
-Corona Details of India
-</br>
+
 ![india_scrapper](https://user-images.githubusercontent.com/51885421/85331011-f7c21b00-b4f2-11ea-8e2e-30bd7598a329.png)
 ![others_scrapper](https://user-images.githubusercontent.com/51885421/85331016-fa247500-b4f2-11ea-88d5-8d16e9c6c557.png)
 ![Screenshot (81)](https://user-images.githubusercontent.com/51885421/85331021-fabd0b80-b4f2-11ea-9f76-8640aa2865c6.png)
 ![Screenshot (83)](https://user-images.githubusercontent.com/51885421/85331022-fabd0b80-b4f2-11ea-80bf-aa8c5d6b38ef.png)
 ![Screenshot (84)](https://user-images.githubusercontent.com/51885421/85331027-fc86cf00-b4f2-11ea-8afb-d5355ea91de3.png)
 ![Screenshot (85)](https://user-images.githubusercontent.com/51885421/85331031-fd1f6580-b4f2-11ea-927c-188c3fe0787f.png)
-![image](https://user-images.githubusercontent.com/51885421/85330234-96e61300-b4f1-11ea-82e7-6d9e0791d7a7.png)
-Pie chart of Cases in Indian states </br>
-![image](https://user-images.githubusercontent.com/51885421/85330247-9f3e4e00-b4f1-11ea-8ecf-a870cb6e1a89.png)
+
 
 
 
