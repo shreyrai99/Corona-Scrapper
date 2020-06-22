@@ -50,9 +50,13 @@ Corona Details of India
 Examples Of Covid Scrapper of Other Nations
 </br>
 ![others_scrapper](https://user-images.githubusercontent.com/51885421/85329993-2d660480-b4f1-11ea-99fe-fc30ec5449ad.png)
+</br>
 ![Screenshot (81)](https://user-images.githubusercontent.com/51885421/85329995-2dfe9b00-b4f1-11ea-8ea0-a63bd35d51c2.png)
+</br>
 ![Screenshot (83)](https://user-images.githubusercontent.com/51885421/85329997-2e973180-b4f1-11ea-8db5-5217d132145b.png)
+</br>
 ![Screenshot (85)](https://user-images.githubusercontent.com/51885421/85330007-3525a900-b4f1-11ea-9e43-6e217c229c47.png)
+</br>
 ![Screenshot (84)](https://user-images.githubusercontent.com/51885421/85330013-37880300-b4f1-11ea-8668-cdb3f9025a78.png)
 </br>
 Data Vizualization using Google Colab </br>
