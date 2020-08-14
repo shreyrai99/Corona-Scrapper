@@ -32,15 +32,32 @@ Emails sent by our model to users: </br>  </br>
 </br>
 Our Home Page
 
-![home1](https://user-images.githubusercontent.com/51885421/85329985-2939e700-b4f1-11ea-9158-ad18d52f54b5.png)
+![Screenshot (127)](https://user-images.githubusercontent.com/51885421/90262922-91130b00-de6c-11ea-97a8-abc6ae59c705.png)
 
 Few examples of country names we can find the details about </br>  
-![home2](https://user-images.githubusercontent.com/51885421/85329988-2b9c4100-b4f1-11ea-9b61-5302a5791900.png)
-![home3](https://user-images.githubusercontent.com/51885421/85329989-2c34d780-b4f1-11ea-8be1-9855942a6449.png)
-</br>
-Corona Details of World
-</br>
-![global_scrapper](https://user-images.githubusercontent.com/51885421/85330549-402d0900-b4f2-11ea-8358-58a3fe72400c.png)
+
+![Screenshot (128)](https://user-images.githubusercontent.com/51885421/90263023-b56ee780-de6c-11ea-8230-b5edb4f3e472.png)
+
+
+![Screenshot (129)](https://user-images.githubusercontent.com/51885421/90263151-e222ff00-de6c-11ea-83e4-2fa6bd888037.png)
+
+
+![Screenshot (130)](https://user-images.githubusercontent.com/51885421/90263153-e2bb9580-de6c-11ea-8f2a-ca3ca5d02eaf.png)
+
+
+![Screenshot (131)](https://user-images.githubusercontent.com/51885421/90263136-dc2d1e00-de6c-11ea-9735-ca78b1910464.png)
+
+
+![Screenshot (132)](https://user-images.githubusercontent.com/51885421/90263143-de8f7800-de6c-11ea-91e1-99be83f4cfe2.png)
+
+
+![Screenshot (133)](https://user-images.githubusercontent.com/51885421/90263145-df280e80-de6c-11ea-979c-d8def461d030.png)
+
+
+![Screenshot (134)](https://user-images.githubusercontent.com/51885421/90263148-dfc0a500-de6c-11ea-91f7-ac658fcf3254.png)
+
+
+![Screenshot (135)](https://user-images.githubusercontent.com/51885421/90263149-e0f1d200-de6c-11ea-9210-e1d09cb5218c.png)
 
 
 ![india_scrapper](https://user-images.githubusercontent.com/51885421/85331011-f7c21b00-b4f2-11ea-8e2e-30bd7598a329.png)
