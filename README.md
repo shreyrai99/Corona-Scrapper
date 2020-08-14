@@ -37,32 +37,13 @@ Our Home Page
 Few examples of country names we can find the details about </br>  
 
 ![Screenshot (128)](https://user-images.githubusercontent.com/51885421/90263023-b56ee780-de6c-11ea-8230-b5edb4f3e472.png)
-
-
 ![Screenshot (129)](https://user-images.githubusercontent.com/51885421/90263151-e222ff00-de6c-11ea-83e4-2fa6bd888037.png)
-
-
 ![Screenshot (130)](https://user-images.githubusercontent.com/51885421/90263153-e2bb9580-de6c-11ea-8f2a-ca3ca5d02eaf.png)
-
-
 ![Screenshot (131)](https://user-images.githubusercontent.com/51885421/90263136-dc2d1e00-de6c-11ea-9735-ca78b1910464.png)
-
-
 ![Screenshot (132)](https://user-images.githubusercontent.com/51885421/90263143-de8f7800-de6c-11ea-91e1-99be83f4cfe2.png)
-
-
 ![Screenshot (133)](https://user-images.githubusercontent.com/51885421/90263145-df280e80-de6c-11ea-979c-d8def461d030.png)
-
-
 ![Screenshot (134)](https://user-images.githubusercontent.com/51885421/90263148-dfc0a500-de6c-11ea-91f7-ac658fcf3254.png)
-
-
 ![Screenshot (135)](https://user-images.githubusercontent.com/51885421/90263149-e0f1d200-de6c-11ea-9210-e1d09cb5218c.png)
-
-
-![india_scrapper](https://user-images.githubusercontent.com/51885421/85331011-f7c21b00-b4f2-11ea-8e2e-30bd7598a329.png)
-![others_scrapper](https://user-images.githubusercontent.com/51885421/85331016-fa247500-b4f2-11ea-88d5-8d16e9c6c557.png)
-![Screenshot (81)](https://user-images.githubusercontent.com/51885421/85331021-fabd0b80-b4f2-11ea-9f76-8640aa2865c6.png)
 ![Screenshot (83)](https://user-images.githubusercontent.com/51885421/85331022-fabd0b80-b4f2-11ea-80bf-aa8c5d6b38ef.png)
 ![Screenshot (84)](https://user-images.githubusercontent.com/51885421/85331027-fc86cf00-b4f2-11ea-8afb-d5355ea91de3.png)
 ![Screenshot (85)](https://user-images.githubusercontent.com/51885421/85331031-fd1f6580-b4f2-11ea-927c-188c3fe0787f.png)
