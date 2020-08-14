@@ -9,6 +9,7 @@ I used the following tools and technologies in order to successfully make the pr
 4. File Handling technique </br>
 5. Flask (Framework) </br>
 6. Web Scrapping </br>
+7. Beautiful Soup Library
 
 # Project Structure
 This project has  the following major parts : </br>
@@ -20,11 +21,12 @@ This project has  the following major parts : </br>
 # Running the Model:
 1. Ensure that you are in the project home directory. </br>
 2. Run app.py using below command to start Flask API python app.py </br>
-By default, flask will run on port 5000 and will inform about Global Corona Cases </br>
-3. "/home" route contains the website's home page </br>
+By default, flask will run on port 5000</br>
+3. "http://127.0.0.1:5000/" route contains the website's home page </br>
 4. "/india" route contains corona details of India </br>
-5. On the home page see the valid country names and "/x" route will inform you about corona cases in the entered country 'x' </br>
-6. Run the send_mail.py model to send emails to the multiple users of our website </br>
+5. The home page displays the Corona data of world and India
+6. Enter the name of any country whose data you want to know from the list of country names provided.
+7. Run the send_mail.py model to send emails to the multiple users of our website </br>
 
 # Working Snaps
 Emails sent by our model to users: </br>  </br> 
