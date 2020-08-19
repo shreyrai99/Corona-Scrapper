@@ -1,6 +1,17 @@
 # ScrappingCOVID
 This is a web scrapping project which scraps various websites to inform us about the Corona Cases of different countries. It also vizualizes the data in order to present the severity of the crisis in a comprehensive manner.
 
+
+The Website is deployed on Heroku now!
+
+
+Visit the website at the following link: 
+
+
+https://shrey-covid.herokuapp.com/
+
+
+
 # Technologies Used:
 I used the following tools and technologies in order to successfully make the project: </br>
 1. Python </br>
